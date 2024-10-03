@@ -29,3 +29,6 @@ O BankAlt é uma plataforma financeira projetada para democratizar o acesso a se
 
 **Versions:** <br>
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+## 🤝 Contribuições
+Estamos sempre abertos a colaborações e melhorias. Se você deseja contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request! 
