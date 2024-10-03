@@ -32,3 +32,5 @@ O BankAlt é uma plataforma financeira projetada para democratizar o acesso a se
 
 ## 🤝 Contribuições
 Estamos sempre abertos a colaborações e melhorias. Se você deseja contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request! 
+
+
