@@ -9,11 +9,14 @@ O BankAlt é uma plataforma financeira projetada para democratizar o acesso a se
 
 ## ⚙️ Tecnologias Utilizadas
 
-**Back end:** <br>
+**Desktop** <br>
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
+**Back end:** <br>
+[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+
 **Front end:** <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 **Mobile:** <br>
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
